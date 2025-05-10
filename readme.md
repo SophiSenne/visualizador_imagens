@@ -99,3 +99,24 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 
 
 
+## Funcionalidades
+
+- Carregamento de imagem via seletor de arquivos
+
+- Aplicação de múltiplos filtros:
+    - Escala de cinza
+    - Inversão de cores
+    - Aumento de contraste
+    - Desfoque
+    - Nitidez
+    - Detecção de bordas
+
+- Transformações:
+    - Rotação
+    - Redimensionamento
+
+- Visualização lado a lado (imagem original x imagem editada)
+
+- Salvamento da imagem final
+
+- Mensagens de erro
