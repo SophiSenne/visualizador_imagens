@@ -63,7 +63,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 <img src="./img/Interface 1.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
-<div>
+</div>
 
 <div align="center">
 <sup>Figura 2 - Seleção da Imagem</sup>
@@ -71,7 +71,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 <img src="./img/selecionar_img.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
-<div>
+</div>
 
 <div align="center">
 <sup>Figura 3 - Aplicação de filtros e transformações</sup>
@@ -79,7 +79,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 <img src="./img/filtro_aplicado.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
-<div>
+</div>
 
 <div align="center">
 <sup>Figura 4 - Aplicação de Filtros e Transformações para outra imagem</sup>
@@ -87,7 +87,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 <img src="./img/filtro_aplicado_2.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
-<div>
+</div>
 
 <div align="center">
 <sup>Figura 5 - Mensagem de erro</sup>
@@ -95,7 +95,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 <img src="./img/img_nao_selecionada.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
-<div>
+</div>
 
 
 
