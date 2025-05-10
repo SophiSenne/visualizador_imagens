@@ -21,7 +21,7 @@ largura_imagem = 0
 sg.theme('Dark Blue 3')
 
 # Cria a janela com o layout do arquivo layout.py
-window = sg.Window('Visualizador de Imagens', layout)
+window = sg.Window('Visualizador de Imagens', layout, resizable=True)
 
 # Lógicas de funcionamento da interface
 while True:
