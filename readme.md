@@ -59,7 +59,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 
 <div align="center">
 <sup>Figura 1 - Visualização Inicial</sup>
-
+<br>
 <img src="./img/Interface 1.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
@@ -67,7 +67,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 
 <div align="center">
 <sup>Figura 2 - Seleção da Imagem</sup>
-
+<br>
 <img src="./img/selecionar_img.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
@@ -91,7 +91,7 @@ As figuras abaixo representam a inteface e suas funcionalidade, como a escolha d
 
 <div align="center">
 <sup>Figura 5 - Mensagem de erro</sup>
-
+<br>
 <img src="./img/img_nao_selecionada.png">
 
 <sup>Fonte: Material produzido pela autora (2025)</sup>
