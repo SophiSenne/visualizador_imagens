@@ -10,7 +10,7 @@ Este projeto consiste em um visualizador de imagens que permite a escolha de uma
 
 ## Explicação do desenvolvimento
 
-A explicação de como esse projeto foi desenvolvido está neste [vídeo]().
+A explicação de como esse projeto foi desenvolvido está neste [vídeo](https://drive.google.com/file/d/1FEoNj3ECReWB-bxI2r1x7PPH4frXKd3S/view?usp=sharing).
 
 ## Instruções de execução
 

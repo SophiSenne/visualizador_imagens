@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 def aplicar_filtro_bordas(imagem):
     if (len(imagem.shape) > 2):
@@ -7,3 +6,4 @@ def aplicar_filtro_bordas(imagem):
     imagem_gaussiana = cv2.GaussianBlur(imagem, (5, 5), 0)
     imagem_canny = cv2.Canny(imagem_gaussiana, 100, 200)
     return imagem_canny
+
